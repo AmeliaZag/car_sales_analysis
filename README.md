@@ -1,5 +1,5 @@
-### Small project name: Car Sales Analysis for the years 2020 - 2024.
-## By: Amelia Zagórowska
+## Small project name: Car Sales Analysis for the years 2020 - 2024.
+### By: Amelia Zagórowska
 
 ## Project description: 
 Car sales analysis in Microsoft Excel with pivot tables, charts and a final report, preceded by data preparation in Python.
