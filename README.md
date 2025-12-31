@@ -9,6 +9,13 @@ Car sales analysis in Microsoft Excel with pivot tables, charts and a final repo
 1. Python (data cleaning)
 3. Microsoft Excel (Power Query, Pivot Tables, Charts, VBA)
 
+## Files:
+- cars.csv (raw data)
+- cleaning_dataset.ipynb
+- cleaned_cars.csv (data prepared for further analysis in M. Excel)
+- graphic.jpg (photo used in report)
+- DASHBOARD.xlsm (M.Excel file with final report)
+  
 ## Data sources:
+- https://www.kaggle.com/datasets/juanmerinobermejo/us-sales-cars-dataset (raw data for analysis: cars.csv)
 - https://pl.pinterest.com/pin/318489004916552088/ (background of the dashboard: graphic.jpg)
-- (raw data for analysis: cars.csv)
