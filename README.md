@@ -10,4 +10,5 @@ Car sales analysis in Microsoft Excel with pivot tables, charts and a final repo
 3. Microsoft Excel (Power Query, Pivot Tables, Charts, VBA)
 
 ## Data sources:
-- https://pl.pinterest.com/pin/318489004916552088/ 
+- https://pl.pinterest.com/pin/318489004916552088/ (background of the dashboard: graphic.jpg)
+- (raw data for analysis: cars.csv)
