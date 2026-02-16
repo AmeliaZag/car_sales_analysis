@@ -15,6 +15,10 @@ Car sales analysis in Microsoft Excel with pivot tables, charts and a final repo
 - cleaned_cars.csv (data prepared for further analysis in M. Excel)
 - graphic.jpg (photo used in report)
 - DASHBOARD.xlsm (M.Excel file with final report)
+- dashboard.png (appearence of interactive report)
+
+## Dashboard preview:
+![Dashboard Preview](dashboard.png)
   
 ## Data sources:
 - https://www.kaggle.com/datasets/juanmerinobermejo/us-sales-cars-dataset (raw data for analysis: cars.csv)
