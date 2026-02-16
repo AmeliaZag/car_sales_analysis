@@ -18,7 +18,7 @@ Car sales analysis in Microsoft Excel with pivot tables, charts and a final repo
 - dashboard_preview.png (appearence of interactive report)
 
 ## Dashboard preview:
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](dashboard_preview.png)
   
 ## Data sources:
 - https://www.kaggle.com/datasets/juanmerinobermejo/us-sales-cars-dataset (raw data for analysis: cars.csv)
